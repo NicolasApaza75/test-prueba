@@ -2,4 +2,5 @@ mesas
 sillas
 sillones
 perchas
+cama
 mis sillas desde jorloquefp
